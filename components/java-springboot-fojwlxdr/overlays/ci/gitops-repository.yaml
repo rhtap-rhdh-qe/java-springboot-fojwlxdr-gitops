@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: java-springboot-fojwlxdr-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/java-springboot-fojwlxdr-gitops
